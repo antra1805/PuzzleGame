@@ -16,7 +16,7 @@ public class puzzlegame extends JFrame implements ActionListener{
         b7 = new JButton("7");  
         b8 = new JButton("8");  
         b9 = new JButton("2");  
-        next = new JButton("next");  
+        next = new JButton("Next");  
 
         b1.setBounds(10, 30, 50, 40);  
         b2.setBounds(70, 30, 50, 40);  
